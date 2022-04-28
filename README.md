@@ -1,9 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Evgeny</h1>
-<h3 align="center">🏢 CTO at Ronas IT 🔧 Leading Full-stack engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eleonov&label=Profile%20views&color=0e75b6&style=flat" alt="eleonov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eleonov" alt="eleonov" /></a> </p>
+<h1 align="center">Hey there 👋, I'm Evgeny </h1>
+<h3 align="center">CTO • Leading Full-stack engineer</h3>
+<p  align="center"><img src="https://github.com/RonasIT/.github/blob/main/images/label.png" alt="Ronas IT Team" width="144"/></p>
 
 - 🤝 I’m **Evgeny Leonov**
 
@@ -21,7 +18,7 @@
 
 - ✋ Feel free to contact me **eleonov@ronasit.com https://ru.linkedin.com/in/evgeny-leonov-639b1571**
 
-- 🧠 Currently learning **Terraform, Helm, GitOps**
+- 🧠 Currently learning **SwiftUI, Composable, Terraform, Helm, ArgoCD, GitOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eleonov&show_icons=true&locale=en" alt="eleonov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eleonov&" alt="eleonov" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eleonov" alt="eleonov" /></a> </p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=eleonov&label=Profile%20views&color=0e75b6&style=flat" alt="eleonov" /></p>
