@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Evgeny </h1>
 <h3 align="center">CTO • Leading Full-stack engineer</h3>
-<p  align="center"><img src="https://github.com/RonasIT/.github/blob/main/images/label.png" alt="Ronas IT Team" width="144"/></p>
+<p align="center"><a href="https://github.com/RonasIT"><img src="https://github.com/RonasIT/.github/blob/main/images/label.png" alt="Ronas IT Team" width="144"/></a></p>
 
 - 🤝 I’m **Evgeny Leonov**
 
